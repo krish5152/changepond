@@ -1,0 +1,4 @@
+18:40:34:505 [main] INFO  demo.demo2 - This is info
+18:40:34:507 [main] WARN  demo.demo2 - This is warn
+18:40:34:508 [main] ERROR demo.demo2 - This is error
+18:40:34:508 [main] FATAL demo.demo2 - This is fatal
